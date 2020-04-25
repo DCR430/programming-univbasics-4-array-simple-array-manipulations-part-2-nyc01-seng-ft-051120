@@ -1,3 +1,3 @@
-def all_my_favs (a, b )
-  a.concat ([b])
+def using_concat (my_favorite_things, more_favs )
+  my_favorite_things.concat ([more_favs])
 end
